@@ -1,7 +1,6 @@
 # Training-Free Self-Correction for Multimodal Masked Diffusion Models
 
 This repository contains the inference code for [Training-Free Self-Correction for Multimodal Masked Diffusion Models](https://arxiv.org/abs/2602.02927)
-
 by Yidong Ouyang, Panwen Hu, Zhengyan Wan, Zhe Wang, Liyan Xie, Dmitriy Bespalov, Ying Nian Wu, Hongyuan Zha, Qiang Sun
 
 ## Overview
